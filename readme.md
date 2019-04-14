@@ -1,4 +1,5 @@
 # Google Chrome Extension CodeLab
+<img width="100%" src="https://cdn-images-1.medium.com/max/800/1*Df8rjIMPqTmz0bcTVEMJ6A.png">
 
 ## Overview
 
